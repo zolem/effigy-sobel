@@ -1,6 +1,6 @@
 {
   "name": "effigy-sobel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Effigy plugin to apply the sobel filter to an image",
   "main": "index.js",
   "scripts": {
